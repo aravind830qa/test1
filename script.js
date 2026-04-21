@@ -100,7 +100,7 @@ const products = [
         badge: null
     },
     {
-        id: 10,
+        id: 11,
         name: "Winter Jacket",
         category: "fashion",
         price: 129.99,
@@ -114,7 +114,7 @@ const products = [
         id: 11,
         name: "Bed Pillow",
         category: "home",
-        price: 44.99,
+        price: 45.99,
         image: "🛏️",
         description: "Memory foam pillow for better sleep",
         rating: 4.5,
