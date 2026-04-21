@@ -302,7 +302,7 @@ function openCart() {
     cartModal.classList.add('active');
 }
 
-// Close Cart
+
 function closeCart() {
     cartModal.classList.remove('active');
 }
