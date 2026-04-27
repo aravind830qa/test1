@@ -15,7 +15,7 @@ const products = [
         id: 2,
         name: "Smartwatch Pro",
         category: "electronics",
-        price: 199.99,
+        price: 400.99,
         image: "⌚",
         description: "Track your fitness and stay connected",
         rating: 4.7,
